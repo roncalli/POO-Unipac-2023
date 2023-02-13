@@ -41,7 +41,7 @@ public class Principal {
 		
 		carro.setNome("Fusca");
 		carro.setMarca("VW");
-		carro.setCor("Branca");
+		carro.setCor("Branco");
 		carro.setChassi(654321);
 		carro.setPortas(2);
 		carro.setFabricacao(formato.parse("01/01/1950"));
